@@ -1,5 +1,5 @@
 # Run-SpaceInvaders-on-DSO138
-Turning an oscilloscope into a game console
+Turning an oscilloscope into a game console     
 Need:
 DSO138, 
  ST-Link V2, 

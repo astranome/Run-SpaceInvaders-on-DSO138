@@ -7,3 +7,4 @@ DSO138,
  3xButtons or any gamepad, 
  wires, 
  soldering iron
+YouTube : https://youtu.be/IFkgC1aoXMc
